@@ -10,7 +10,7 @@
 	"Delete": "Löschen",
 	"Select all": "Alles markieren",
 	"View": "Ansicht",
-	"Reload": "Neu laden",
+	"Reload": "Neuladen",
 	"Force Reload": "Neu laden erzwingen",
 	"Toggle Developer Tools": "Entwicklerwerkzeuge umschalten",
 	"Actual size": "Wahre Größe",
@@ -53,7 +53,7 @@
 	"View": "Aufruf",
 	"Views": "Aufrufe",
 	"Subscribe": "Abonnieren",
-	"Unsubscribe": "Abo beenden",
+	"Unsubscribe": "Deabonnieren",
 	"Published on": "Veröffentlicht am",
 	"Jan": "Jan",
 	"Feb": "Feb",
@@ -91,5 +91,5 @@
 	"No": "Nein",
 	"Beta": "Beta",
 	"This software is FOSS and released under the GNU Public License v3+.": "Diese Software ist FOSS (Freie Open-Source Software) und unter der GNU Public License v3+ veröffentlicht.",
-	"Found a bug? Want to suggest a feature? Want to help out? Check out our GitHub page. Pull requests are welcome.": "Fehler gefunden? Eine Idee für extra Funktionalität? Mithelfen? Schau dir unsere Github-Seite an. Pull requests sind Willkommen."
+	"Found a bug? Want to suggest a feature? Want to help out? Check out our GitHub page. Pull requests are welcome.": "Fehler gefunden? Möchtest du ein Feature vorschlagen? Möchtest du aushelfen? Schau dir unsere Github-Seite an. Pull requests sind willkommen."
 }
